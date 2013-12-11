@@ -84,7 +84,8 @@ public final class R {
         public static final int third=0x7f080004;
     }
     public static final class raw {
-        public static final int test=0x7f040000;
+        public static final int drinks=0x7f040000;
+        public static final int test=0x7f040001;
     }
     public static final class string {
         public static final int abc=0x7f060007;
